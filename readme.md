@@ -25,7 +25,7 @@ This is a custom implementation of **Tetris** with additional gameplay mechanics
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/AyazH11106/tetris-powerups.git
+git clone https://github.com/AyazH11106/Terminal-Tetris.git
 cd Terminal-Tetris
 ```
 
